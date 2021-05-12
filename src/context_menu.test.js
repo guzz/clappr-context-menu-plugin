@@ -1,4 +1,4 @@
-import { Events, Core, Container, Playback, version } from '@clappr/core'
+import { Events, Core, Container, Playback, version } from '@guzzj/clappr-core'
 import ContextMenuPlugin from './context_menu'
 
 const setupTest = (options = {}, fullSetup = false) => {
